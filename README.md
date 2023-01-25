@@ -7,6 +7,6 @@ No olviden hacer **Fork** y clonar el repositorio en su entorno local, hagan pus
 
 Tip: pueden hacer tantos push como deseen suponiendo que puede suceder una catástrofe (como un corte de luz o internet) y es mejor ir actualizando todos los avances conforme se tengan, siempre y cuando su último commit no sea después del deadline. 
 
-Ojo: Recuerden siempre usar ruta absoluta en repositorios remotos , NUNCA rutas relativas, no quiero que migren por esa razón :S 
+Ojo: Recuerden siempre usar ruta relativa en repositorios remotos (ES DECIR SOLO EL NOMBRE DEL ARCHIVO) no quiero que migren por esa razón :S 
 
 USTEDES PUEDEN, son chingonas y chingones :D !!
